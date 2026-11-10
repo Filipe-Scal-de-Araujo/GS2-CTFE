@@ -2,7 +2,7 @@
 # Integrantes: (nome completo e RM de cada um)
 # Ambiente: Sala de aula (leitura, escrita, uso de quadro)
 #
-# LIMITES DE REFERÊNCIA mmm
+# LIMITES DE REFERÊNCIA
 # Temperatura (18 a 25 °C): NR-17 (2021), item 17.8.4.2, temperatura do ar
 #   para ambientes climatizados com atividade intelectual constante.
 # Luminosidade (300 a 500 lux): NBR ISO 8995-1:2013 indica 300 lux no plano de
@@ -11,9 +11,6 @@
 # Ruído (máx. 35 dB): NBR 10152:2017, Tabela 3, valor de referência de
 #   35 dB(A) para salas de aula.
 # ---------------------------------------------------------------------------
-
-# Testes
-
 
 AMBIENTE = "Sala de Aula"
 LIMITES_PERCENTUAL = 30
