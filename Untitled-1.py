@@ -12,6 +12,9 @@
 #   35 dB(A) para salas de aula.
 # ---------------------------------------------------------------------------
 
+# Testes
+
+
 AMBIENTE = "Sala de Aula"
 LIMITES_PERCENTUAL = 30
 NOME_ARQUIVO = "relatorio_ambiental.txt"
