@@ -1,0 +1,32 @@
+============================================================
+Relatorio de Monitoramento Ambiental (Simulação)
+============================================================
+Ambiente: Sala de Aula
+Quantidade de leituras: 2
+
+Limites de Referencia Adotados
+   Temperatura: entre 18 e 25 °C
+   Luminosidade: entre 300 e 500 Lux
+   Ruido: máximo 35 dB
+
+Estatisticas
+   Temperatura: média = 36.00 °C | maior = 50.00 °C | menor = 22.00 °C
+   Luminosidade: média = 400.00 Lux | maior = 400.00 Lux | menor = 400.00 Lux
+   Ruido: média = 50.00 dB | maior = 70.00 dB | menor = 30.00 dB
+  (A media de ruido é a media aritmética simples dos valores em dB,
+    estatisticas descritiva simplificada: não represneta nivel sonoro equivalente.)
+
+Ocorrencias Críticas por Parametro
+   Temperatura: 1
+   Luminosidade: 0
+   Ruido: 1
+
+Leituras com pelo menos uma condição crítica: 1 de 2
+Percentual de leituras criticas: 50.00%
+
+Estado geral: condições ambientais de atenção, com frequência de ocorências acima do critério estabelecido.
+
+OBSERVAÇÃO: este resultado se refere a uma simulação baseado nos
+criterios adotados; não é certificação de acessibilidade nem substitui
+avaliação técnica do espaço.
+============================================================
